@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-phandonodes"
+description = "A collection of nodes to help streamline your ComfyUI workflows"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Phando/ComfyUI-PhandoNodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-PhandoNodes"
+Icon = ""
